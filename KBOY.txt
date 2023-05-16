@@ -1,1 +1,13 @@
-
+{
+"Version":"4.12",
+"Url":"https://raw.githubusercontent.com/MrRKeo/VPNMKEOKH152004/main/VPNMKEO2026.zip",
+"Changelog":"
+លេងVPNFREE
+🌌
+🇹🇭
+🇰🇭
+",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
